@@ -1,0 +1,7 @@
+/* Reset to browser defaults */
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: sans-serif;
+}
